@@ -17,11 +17,11 @@
   <a href="mailto:erhanturanseyit@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/SeyitErhanTuran"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://instagram.com/s.erhanturan"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <!-- <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> -->
+  <a href="https://linkedin.com/in/seyit-erhan-turan-6075683a5"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
 
 ---
-
+ <!--
 <h2 align="center">🛠️ Languages and Tools</h2>  
 
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
@@ -35,16 +35,16 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/>
 </div>
-
+-->
 ---
 
 <h2 align="center">📊 My GitHub Stats</h2>  
 
-<div align="center">
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=SeyitErhanTuran&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
-  </p>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeyitErhanTuran&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
-  </p>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SeyitErhanTuran&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="400"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeyitErhanTuran&layout=compact&theme=tokyonight" alt="Top Languages" width="400"/>
+</p>
+
