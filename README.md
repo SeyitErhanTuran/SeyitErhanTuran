@@ -37,14 +37,21 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql
 </div>
 -->
 ---
-
 <h2 align="center">📊 My GitHub Stats</h2>  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SeyitErhanTuran&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="400"/>
-</p>
+<table align="center">
+<tr>
+<td>
+  <a href="https://github.com/SeyitErhanTuran">
+    <img src="https://github-readme-stats.vercel.app/api?username=SeyitErhanTuran&show_icons=true&theme=tokyonight&count_private=true&hide=prs" alt="GitHub Stats" width="350"/>
+  </a>
+</td>
+<td>
+  <a href="https://github.com/SeyitErhanTuran?tab=languages">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeyitErhanTuran&layout=compact&theme=tokyonight" alt="Top Languages" width="350"/>
+  </a>
+</td>
+</tr>
+</table>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeyitErhanTuran&layout=compact&theme=tokyonight" alt="Top Languages" width="400"/>
-</p>
 
