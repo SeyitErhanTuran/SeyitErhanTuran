@@ -37,9 +37,17 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql
 </div>
 -->
 ---
-<h2 align="center">📊 My GitHub Stats</h2>  
+<!--
+<h2 align="center">📊 My GitHub Stats</h2>
 
-[![SeyitErhanTuran GitHub stats](https://github-readme-stats.vercel.app/api?username=SeyitErhanTuran)](https://github.com/SeyitErhanTuran)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SeyitErhanTuran&show_icons=true&theme=radical" alt="Seyit Erhan's GitHub Stats" />
+</div>
+
+<div align="center" style="margin-top: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeyitErhanTuran&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+-->
 
 
 
