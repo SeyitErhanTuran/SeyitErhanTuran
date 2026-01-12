@@ -5,7 +5,7 @@
 <h2 align="center">👋 Hi, I'm Seyit Erhan</h2>  
 
 <h3 align="center">
-  Interested in <b>Software Development</b> and <b>Cybersecurity</b>.<br><br>
+  Interested in <b>Software Development</b> and <b>Cyber Security</b>.<br><br>
   Driven to learn, research, and develop new projects.
 </h3>
 
